@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Online Shoping App",
+    "desc": "A back-end project by team of 6 members in 4 days is based on Online Shopping App using Java, Spring, SpringBoot, MySQL and Hibernate.",
+    "image": "OnlineShoping",
+    "category": "back-end",
+    "links": {
+      "view": "https://drive.google.com/file/d/17bwyqr0bNXi0qkxW-6eaMB3ZcANvHoDA/view?usp=sharing",
+      "code": "https://github.com/tuhinsaikh/Online-Shoping-App-SpringBoot-"
+    }
+  },
+  {
+    "name": "Student Management App",
+    "desc": "A self-building back-end project within 24 hours is based on Online Student Management App using Java, Spring, SpringBoot, MySQL and Hibernate.",
+    "image": "StudentManagement",
+    "category": "back-end",
+    "links": {
+      "view": "http://localhost:8088/swagger-ui/index.html#/",
+      "code": "https://github.com/jitesh-95/Orbitz"
+    }
+  },
+  {
+    "name": "Zee5.com",
+    "desc": "A front-end clone of Zee5 by team of 5 members in 4 days. We have added pages like Tv Shows, Movies, Web Series and signin, signout features Using Javascript, HTML, CSS.",
+    "image": "Zee5",
+    "category": "mern",
+    "links": {
+      "view": "https://sweet-mooncake-ca1217.netlify.app",
+      "code": "https://github.com/AnniRoy/Zee5.com"
+    }
+  }
+]
+  
